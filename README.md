@@ -21,9 +21,3 @@ Gosto de trocar ideias sobre tecnologia, projetos e oportunidades de estágio!
 * **E-mail:** [lucasmattos2311@gmail.com](lucasmattos2311@gmail.com) 
 
 ---
-
-### 📊 Meus Status do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" height="150px"/>
-</p>
