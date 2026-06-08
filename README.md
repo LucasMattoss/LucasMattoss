@@ -7,7 +7,6 @@ Estudante do 1º período de **Ciência da Computação na CESAR School**. Sou a
 
 Aqui estão as tecnologias com as quais já tenho familiaridade e venho aplicando em meus estudos:
 
-🚀 **Linguagens e Front-end:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,8 +21,8 @@ Aqui estão as tecnologias com as quais já tenho familiaridade e venho aplicand
 
 Aqui vou centralizar os principais desafios e projetos práticos desenvolvidos durante a graduação:
 
-* ⏳ **[Portfólio]** - *Em breve...* (Breve descrição do primeiro projeto que você criar na faculdade, ex: um algoritmo em Python ou uma página web).
-* ⏳ **[CPA 4ALL]** - *Em breve...* (Descrição curta do projeto).
+* ⏳ **[Portfólio]** - *Em breve...*
+* ⏳ **[CPA 4ALL]** - *Em breve...*
 
 ---
 
