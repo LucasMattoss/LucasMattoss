@@ -1,23 +1,56 @@
-# Olá, eu sou Lucas Mattos! 👋
+# Olá, eu sou o Lucas Mattos! 👋
 
 Estudante do 1º período de **Ciência da Computação na CESAR School**. Sou apaixonado por inovação, tecnologia e movido pela curiosidade de criar soluções de impacto através do código.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=0078d4&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
+</p>
+
 ---
 
-### Stack Técnico & Habilidades
-* **Linguagens:** Python, JavaScript (Certificado Cisco Essentials)
-* **Front-end:** HTML5 e CSS3
-* **Foco Atual:** Fundamentos de programação, lógica e algoritmos
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias com as quais já tenho familiaridade e venho aplicando em meus estudos:
+
+🚀 **Linguagens e Front-end:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+ **Certificações em Destaque:**
+* **Cisco Networking Academy:** JavaScript Essentials 1 (Concluído em Junho/2026)
+
+---
+
+### Projetos Acadêmicos & Pessoais
+
+Aqui vou centralizar os principais desafios e projetos práticos desenvolvidos durante a graduação:
+
+* ⏳ **[Portfólio]** - *Em breve...* (Breve descrição do primeiro projeto que você criar na faculdade, ex: um algoritmo em Python ou uma página web).
+* ⏳ **[CPA 4ALL]** - *Em breve...* (Descrição curta do projeto).
+
+---
 
 ### Soft Skills & Trajetória
-Minha base vem da disciplina do esporte competitivo e do trabalho em iniciativas coletivas com times diversos. Trago comigo forte capacidade de comunicação, colaboração, resiliência e foco em entregar sempre o meu melhor.
+
+Minha base comportamental foi moldada fora das telas. Anos de dedicação ao **esporte competitivo** e o envolvimento em **iniciativas coletivas com times diversos** me ensinaram o real valor da disciplina, da resiliência e da responsabilidade. 
+
+**Foco:** Trabalho em equipe e comunicação clara.
+* **Atitude:** Aprendizado rápido, adaptabilidade e dedicação para entregar sempre o melhor.
 
 ---
 
 ### Vamos nos conectar?
-Gosto de trocar ideias sobre tecnologia, projetos e oportunidades de estágio!
 
-* **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com/in/lucasmattoss) 
-* **E-mail:** [lucasmattos2311@gmail.com](lucasmattos2311@gmail.com) 
+* **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com/in/lucasmattoss) 👔
+* **E-mail:** [lucasmattos2311@mail.com](mailto:lucasmattos2311@mail.com) ✉️
 
 ---
+
+### Meus Status do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmattoss&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=lucasmattoss&layout=compact&theme=radical" height="150px"/>
+</p>
