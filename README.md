@@ -1,11 +1,6 @@
-# Olá, eu sou o Lucas Mattos! 👋
+# Olá, eu sou Lucas Mattos! 👋
 
 Estudante do 1º período de **Ciência da Computação na CESAR School**. Sou apaixonado por inovação, tecnologia e movido pela curiosidade de criar soluções de impacto através do código.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=0078d4&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
-</p>
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -47,10 +42,3 @@ Minha base comportamental foi moldada fora das telas. Anos de dedicação ao **e
 * **E-mail:** [lucasmattos2311@mail.com](mailto:lucasmattos2311@mail.com) ✉️
 
 ---
-
-### Meus Status do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmattoss&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=lucasmattoss&layout=compact&theme=radical" height="150px"/>
-</p>
