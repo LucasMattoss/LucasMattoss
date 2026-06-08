@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Mattos! 👋
+# Olá, eu sou Lucas Mattos! 👋
 
 Estudante do 1º período de **Ciência da Computação na CESAR School**. Sou apaixonado por inovação, tecnologia e movido pela curiosidade de criar soluções de impacto através do código.
 
