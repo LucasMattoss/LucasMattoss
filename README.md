@@ -42,6 +42,6 @@ Minha base comportamental foi moldada fora das telas. Anos de dedicação ao **e
 ### Vamos nos conectar?
 
 * **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com/in/lucasmattoss) 👔
-* **E-mail:** [lucasmattos2311@mail.com](mailto:lucasmattos2311@mail.com) ✉️
+* **E-mail:** [lucasmattos2311@mail.com](mailto:lucasmattos2311@gmail.com) ✉️
 
 ---
