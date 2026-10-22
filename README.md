@@ -1,7 +1,5 @@
 # Olá, eu sou Lucas Mattos! 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
-
 Estudante do 1º período de **Ciência da Computação na CESAR School**. Sou apaixonado por inovação, tecnologia e movido pela curiosidade de criar soluções de impacto através do código.
 ---
 
