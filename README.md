@@ -22,7 +22,7 @@ Aqui estão as tecnologias com as quais já tenho familiaridade e venho aplicand
 * **Cisco Networking Academy:** JavaScript Essentials 1 
 * **Cisco Networking Academy:** Python Essentials 1
 * **Recife Resolve:** Residencia tecnologica - (60h)
-* ** Orango:** •	Gestão Ágil de Projetos com Scrum e Kanban – (12h)
+* **Orango:** Gestão Ágil de Projetos com Scrum e Kanban – (12h)
 
 ---
 
@@ -30,9 +30,14 @@ Aqui estão as tecnologias com as quais já tenho familiaridade e venho aplicand
 
 Aqui vou centralizar os principais desafios e projetos práticos desenvolvidos durante a graduação:
 
-*  **[Tem Vaga]** 
-*  **[CPA 4ALL]** 
-* ⏳ **[CVerdigis]** - *Em breve...*
+### [Tem Vaga](https://github.com/gabriellalbq/Ia-Go-Recife) 
+Desenvolvimento de plataforma web com JavaScript, HTML, CSS, Node.js e Express.js, integrando APIs de Inteligência Artificial para assistência profissional, revisão de currículos e preparação para entrevistas. Implementação de comunicação entre frontend e backend, respostas em streaming via SSE e processamento de currículos em texto e PDF.
+### [CPA 4ALL](https://github.com/jpedrosmenezes/CPA4All)
+Projeto de tecnologia assistiva voltado ao desenvolvimento de um controle alternativo para videogames, com foco em acessibilidade, ergonomia e redução do esforço motor para pessoas com mobilidade reduzida. Envolve prototipagem, integração de componentes eletrônicos e testes do dispositivo.
+
+### [Verdigis](https://github.com/jpedrosmenezes/Projeto-Verdigis)
+Em construção...
+Plataforma web desenvolvida para incentivar pequenas e médias empresas a adotarem práticas ESG (ambientais, sociais e de governança). O projeto conta com páginas dinâmicas, formulário de contato com persistência de dados e painel administrativo.
 
 ---
 
